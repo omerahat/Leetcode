@@ -1,4 +1,9 @@
 ![image](https://github.com/omerahat/Leetcode-Solutions/assets/52050768/ac983c84-1778-47f1-9b8f-1137aa20e501)
+
+[![Owner](https://img.shields.io/badge/owner-omerahat-red)](https://github.com/omerahat)
+[![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/omerahat/)
+[![Contact](https://img.shields.io/badge/account-leetcode-orange)](https://leetcode.com/ahatomer45/)
+
 # LeetCode Solutions
 
 This repository contains my solutions to various LeetCode problems. [LeetCode](https://leetcode.com/problemset/all/) is a popular online platform for practicing coding skills and preparing for technical interviews.
