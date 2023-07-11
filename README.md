@@ -1,7 +1,8 @@
 ![image](https://github.com/omerahat/Leetcode-Solutions/assets/52050768/ac983c84-1778-47f1-9b8f-1137aa20e501)
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems. LeetCode is a popular online platform for practicing coding skills and preparing for technical interviews.
+This repository contains my solutions to various LeetCode problems. [LeetCode](https://leetcode.com/problemset/all/) is a popular online platform for practicing coding skills and preparing for technical interviews.
+
 
 ## Table of Contents
 
@@ -12,7 +13,7 @@ This repository contains my solutions to various LeetCode problems. LeetCode is 
 
 ## Introduction
 
-In this repository, you will find my solutions to LeetCode problems. Each problem is categorized by its difficulty level and is accompanied by a detailed explanation and code implementation. I have primarily used Python for solving these problems, but there may be instances where I've used other programming languages depending on the requirements.
+In this repository, you will find my solutions to LeetCode problems. Each problem is categorized by its difficulty level on leetcode. I have primarily used Python for solving these problems, but there may be instances where I've used other programming languages depending on the requirements.
 
 ## Solutions
 
