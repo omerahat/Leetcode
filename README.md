@@ -3,7 +3,7 @@
 
 [![Owner](https://img.shields.io/badge/owner-omerahat-red)](https://github.com/omerahat)
 [![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/omerahat/)
-[![Contact](https://img.shields.io/badge/account-leetcode-orange)](https://leetcode.com/ahatomer45/)
+[![Contact](https://img.shields.io/badge/account-leetcode-orange)](https://leetcode.com/omerahat/)
 
 # LeetCode Solutions
 
