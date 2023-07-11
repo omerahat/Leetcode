@@ -21,7 +21,14 @@ The solutions are organized into folders based on their respective problem names
 
 Feel free to explore the solutions and use them as a reference to improve your own problem-solving skills. However, I encourage you to try solving the problems on your own first before referring to the solutions.
 
-
+| Day | Date        | Question                                 | Leetcode Link | My Solution     |
+|-----|-------------|------------------------------------------|---------------|-----------------|
+| 1   | Jul 9,2023  | Two Sum                                  | [LeetCode]()  | [Python Code]() |
+|     |             | Remove Duplicates from Sorted Array      | [LeetCode]()  | [Python Code]() |
+|     |             | Plus One                                 | [LeetCode]()  | [Python Code]() |
+| 2   | Jul 10,2023 | Remove Element                           | [LeetCode]()  | [Python Code]() |
+|     |             | Valid Parantheses                        | [LeetCode]()  | [Python Code]() |
+| 3   | Jul 11,2023 | Remove All Adjacent Duplicates In String | [LeetCode]()  | [Python Code]() |
 
 
 ## Contributing
