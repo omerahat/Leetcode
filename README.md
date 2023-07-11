@@ -35,7 +35,7 @@ Feel free to explore the solutions and use them as a reference to improve your o
 | 2   | Jul 10,2023 | Remove Element                           | [LeetCode](https://leetcode.com/problems/remove-element/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Remove%20Element.py) |
 |     |             | Valid Parantheses                        | [LeetCode](https://leetcode.com/problems/valid-parentheses/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Valid%20Parentheses.py) |
 | 3   | Jul 11,2023 | Remove All Adjacent Duplicates In String | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Remove%20All%20Adjacent%20Duplicates%20In%20String.py) |
-|     |             | Make The String Great                    | [LeetCode](https://leetcode.com/problems/make-the-string-great/)  | [Python Code]() |
+|     |             | Make The String Great                    | [LeetCode](https://leetcode.com/problems/make-the-string-great/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Make%20The%20String%20Great.py) |
 
 ## Contributing
 
