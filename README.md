@@ -1,4 +1,5 @@
-![image](https://github.com/omerahat/Leetcode-Solutions/assets/52050768/ac983c84-1778-47f1-9b8f-1137aa20e501)
+
+![tumblr_ok4p35UoDA1say5m8o1_540](https://github.com/omerahat/Leetcode-Solutions/assets/52050768/41360dbf-09fa-41fd-82db-20c75750ebdd)
 
 [![Owner](https://img.shields.io/badge/owner-omerahat-red)](https://github.com/omerahat)
 [![Contact](https://img.shields.io/badge/contact-linkedin-blue)](https://www.linkedin.com/in/omerahat/)
@@ -28,12 +29,12 @@ Feel free to explore the solutions and use them as a reference to improve your o
 
 | Day | Date        | Question                                 | Leetcode Link | My Solution     |
 |-----|-------------|------------------------------------------|---------------|-----------------|
-| 1   | Jul 9,2023  | Two Sum                                  | [LeetCode]()  | [Python Code]() |
-|     |             | Remove Duplicates from Sorted Array      | [LeetCode]()  | [Python Code]() |
-|     |             | Plus One                                 | [LeetCode]()  | [Python Code]() |
-| 2   | Jul 10,2023 | Remove Element                           | [LeetCode]()  | [Python Code]() |
-|     |             | Valid Parantheses                        | [LeetCode]()  | [Python Code]() |
-| 3   | Jul 11,2023 | Remove All Adjacent Duplicates In String | [LeetCode]()  | [Python Code]() |
+| 1   | Jul 9,2023  | Two Sum                                  | [LeetCode](https://leetcode.com/problems/two-sum/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Two%20Sum.py) |
+|     |             | Remove Duplicates from Sorted Array      | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Remove%20Duplicates%20from%20Sorted%20Array.py) |
+|     |             | Plus One                                 | [LeetCode](https://leetcode.com/problems/plus-one/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Plus%20One.py) |
+| 2   | Jul 10,2023 | Remove Element                           | [LeetCode](https://leetcode.com/problems/remove-element/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Remove%20Element.py) |
+|     |             | Valid Parantheses                        | [LeetCode](https://leetcode.com/problems/valid-parentheses/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Valid%20Parentheses.py) |
+| 3   | Jul 11,2023 | Remove All Adjacent Duplicates In String | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Remove%20All%20Adjacent%20Duplicates%20In%20String.py) |
 
 
 ## Contributing
