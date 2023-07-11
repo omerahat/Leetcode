@@ -2,7 +2,7 @@ def makeGood(s):
     stack=[]
     for char in s:
         if stack:
-            if (char.isupper() and stack[-1].islower() and stack[-1].upper() == i )or (char.islower() and stack[-1].isupper() and stack[-1].lower() == char):
+            if (char.isupper() and stack[-1].islower() and stack[-1].upper() == char )or (char.islower() and stack[-1].isupper() and stack[-1].lower() == char):
                 stack.pop()
                 continue
             else:
@@ -13,6 +13,3 @@ def makeGood(s):
 
         
     return "".join(stack)
-
-
-print(makeGood("Pp"))
