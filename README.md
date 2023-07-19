@@ -41,6 +41,9 @@ Feel free to explore the solutions and use them as a reference to improve your o
 | 7   | Jul 15,2023 | Longest Common Prefix                              | [LeetCode](https://leetcode.com/problems/longest-common-prefix/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Longest%20Common%20Prefix.py) |
 | 8   | Jul 16,2023 | Find the Index of the First Occurrence in a String | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py) |
 | 9   | Jul 17,2023 | Palindrome Number                                  | [LeetCode](https://leetcode.com/problems/palindrome-number/)  | [Python Code](https://github.com/omerahat/Leetcode-Solutions/blob/main/Solutions/Palindrome%20Number.py) |
+| 10    |             |                                                    |               |                 |
+| 11     |             |                                                    |               |                 |
+| 12    |             |                                                    |               |                 |
 ## Contributing
 
 Contributions to this repository are welcome! If you have alternative or optimized solutions to the problems, feel free to submit a pull request. Please ensure that your code follows good coding practices and includes appropriate documentation and test cases.
