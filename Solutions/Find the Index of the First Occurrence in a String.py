@@ -5,6 +5,4 @@ def strStr(haystack, needle):
         return haystack.index(needle)
     else:
         return -1
-haystack = "sadbutsad"
-needle = "sad"
-print(strStr(haystack,needle))
+    

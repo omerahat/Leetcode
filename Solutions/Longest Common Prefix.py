@@ -14,5 +14,3 @@ def longestCommonPrefix(strs):
 
     return common
 
-strs = ["flower","flow","flight"]
-print(longestCommonPrefix(strs))
