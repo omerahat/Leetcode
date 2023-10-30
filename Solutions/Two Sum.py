@@ -11,7 +11,8 @@ def twoSum(nums,target):
 
 
 
-""" Solution 2
+""" 
+Solution 2
 def twoSum(nums,target):
     for i in range(len(nums)):
         complement = target - nums[i]
